@@ -5,5 +5,7 @@ References -
 
 1. User Story Mapping by Jeff Patton
 2. Image assets courtesy of - 
-	3. MonkeyUser
-	4. Plan.io  
+
+		a. MonkeyUser
+	
+		b. Plan.io  
